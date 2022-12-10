@@ -1,0 +1,8 @@
+Request Response Cycle
+Deployment
+Template Engine
+Rendering
+
+Node js browser me jo javascript run krtii hai usko server pr run krne ka tarikaa hota h
+
+Chrome ke andar avascript execute krne ke liye engine - V8
